@@ -1,0 +1,3 @@
+[submodule "dmpg"]
+	path = dmpg
+	url = https://gitlab.com/digitaltwinml/DMPG
